@@ -1,0 +1,21 @@
+.navbar-custom{
+    background: rgba(44, 62, 80, 0.95);
+    backdrop-filter: blur(10px);
+}
+
+.section-padding {
+    padding: 80px 0;
+    box-shadow: inset;
+}
+
+.content-img {
+    padding: 0;
+}
+
+.content-img1 {
+    padding: 80 40;
+}
+
+.trusted-padding {
+    padding: 80px 0;
+}
