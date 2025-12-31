@@ -8,6 +8,20 @@
     box-shadow: inset;
 }
 
+.figure-img{
+    max-width: 80%;
+    max-height: 80%;
+    display: block;
+    margin: auto;
+    /* background-size: cover; */
+    
+
+}
+
+div.cardsection:hover{
+    background-color: #9195953D;
+}
+
 .content-img {
     padding: 0;
 }
@@ -48,3 +62,4 @@
 .card13{
     background-color: #9195953D;
 }
+
