@@ -1,2 +1,2 @@
 # Medi_bridge
-First project of the course. Its a frontend project and full of the project is showing responsive. There have some common section, like (Nav, Hero, Trusted by, Experience, HaveSay, Asked Questions, Your Need). Here is also use the basic html, css and bootstrap.
+First project of the course. Its a frontend project and full of the project is showing responsive. There have some common section, like (Nav, Hero, Trusted by, Experience, HaveSay, Asked Questions, Your Need, Empowering and last one is footer). Here is also use the basic html, css and bootstrap.
