@@ -9,4 +9,6 @@ Open: http: http://127.0.0.1:5500/index3.html with your browser to see the resul
 
 # Learn More
 To learn more about HTML & CSS(Bootstrip), take a look at the following resources:<br>
-(https://www.w3schools.com/html/html_css.asp)
+(https://www.w3schools.com/html/html_css.asp)<br>
+(https://www.geeksforgeeks.org/search/?gq=Html+css)
+
