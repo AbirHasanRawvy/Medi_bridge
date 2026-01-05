@@ -8,5 +8,5 @@ From index.html click on Open With Live Server
 Open: http: http://127.0.0.1:5500/index3.html with your browser to see the result.
 
 # Learn More
-To learn more about HTML & CSS(Bootstrip), take a look at the following resources: 
+To learn more about HTML & CSS(Bootstrip), take a look at the following resources:<br>
 (https://www.w3schools.com/html/html_css.asp)
